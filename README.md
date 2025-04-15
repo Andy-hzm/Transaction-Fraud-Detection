@@ -8,7 +8,9 @@ This project explores techniques for identifying fraudulent financial transactio
 
 ## 📊 Full Presentation
 
-**[View Full Project Presentation]([https://docs.google.com/presentation/d/1otY1pVKG5bx3xt2GuUNRZEsh8A8DXvX6dNXGuTuy6jM/edit?usp=sharing](https://docs.google.com/presentation/d/1otY1pXVG5bx3xt2GuUNRzEsh8A0DxX6dNGXuTuy6jmE/edit?usp=sharing))**
+**[View Full Project Presentation]**
+
+https://docs.google.com/presentation/d/1otY1pVKG5bx3xt2GuUNRZEsh8A8DXvX6dNXGuTuy6jM/edit?usp=sharing](https://docs.google.com/presentation/d/1otY1pXVG5bx3xt2GuUNRzEsh8A0DxX6dNGXuTuy6jmE/edit?usp=sharing
 
 ---
 
