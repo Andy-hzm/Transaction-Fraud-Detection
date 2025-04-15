@@ -1,5 +1,13 @@
 # 💳 Transaction Fraud Detection
 
+## 📊 Full Presentation
+
+**[View Full Project Presentation](https://docs.google.com/presentation/d/1otY1pVKG5bx3xt2GuUNRZEsh8A8DXvX6dNXGuTuy6jM/edit?usp=sharing)**
+
+
+
+---
+
 **Anomaly Detection for Financial Transactions using Machine Learning**
 
 This project explores techniques for identifying fraudulent financial transactions. Using statistical analysis and machine learning models, we develop an end-to-end pipeline to classify and detect anomalies in transaction data.
@@ -7,14 +15,6 @@ This project explores techniques for identifying fraudulent financial transactio
 ![image](https://github.com/user-attachments/assets/32323895-6100-404f-aa20-256c7344a788)
 
 ![image](https://github.com/user-attachments/assets/5a1d7658-8367-46cd-809b-0c7b8b33e7c2)
-
----
-
-## 📊 Full Presentation
-
-**[View Full Project Presentation]**
-
-https://docs.google.com/presentation/d/1otY1pVKG5bx3xt2GuUNRZEsh8A8DXvX6dNXGuTuy6jM/edit?usp=sharing
 
 ---
 
