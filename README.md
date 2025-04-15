@@ -12,9 +12,6 @@
 
 This project explores techniques for identifying fraudulent financial transactions. Using statistical analysis and machine learning models, we develop an end-to-end pipeline to classify and detect anomalies in transaction data.
 
-![image](https://github.com/user-attachments/assets/32323895-6100-404f-aa20-256c7344a788)
-
-![image](https://github.com/user-attachments/assets/5a1d7658-8367-46cd-809b-0c7b8b33e7c2)
 
 ---
 
@@ -27,6 +24,9 @@ This project explores techniques for identifying fraudulent financial transactio
   - Training and evaluating models (e.g., Random Forest, XGBoost)
   - Comparing precision, recall, and ROC-AUC metrics
 
+![image](https://github.com/user-attachments/assets/32323895-6100-404f-aa20-256c7344a788)
+
+![image](https://github.com/user-attachments/assets/5a1d7658-8367-46cd-809b-0c7b8b33e7c2)
 ---
 
 ## 📈 Results & Visuals
